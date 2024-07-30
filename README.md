@@ -1,2 +1,2 @@
-# Precourse-Henryreadme
-Repositorio de prueba del Modulo 2 de Henry
+este proyecto es una prueba de como crear un repositorio en la nube 
+lol xd 
